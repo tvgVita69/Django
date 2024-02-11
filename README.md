@@ -104,6 +104,30 @@ Using cached filelock-3.13.1-py3-none-any.whl (11 kB)
 ``urls.py`` -маршрутизация.<br>
 ``wsgi.py`` -разворачивание на wsgi интерфейсе.<br>
 
+Проверим работу нашего веб-сервера.
+
+![image](https://github.com/tvgVita69/Django/assets/98489171/928f5b49-8c85-4dc5-a64b-7ac590d91b7a)
+
+Запустим его. По умалчанию порт 8000.
+
+![image](https://github.com/tvgVita69/Django/assets/98489171/e103e7ae-f72d-40a7-8518-57a9d0490698)
+
+![image](https://github.com/tvgVita69/Django/assets/98489171/1d388f1c-7537-47d8-9988-b9eda6ff1b7e)
+
+При желании можно порт поменять, например 5555. Завершение работы сервера ``Ctrl+c``
+
+![image](https://github.com/tvgVita69/Django/assets/98489171/936a846a-9318-4fd4-bb6b-e63f62aefadb)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
