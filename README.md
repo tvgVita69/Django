@@ -150,8 +150,9 @@ INSTALLED_APPS = [
 
 ![image](https://github.com/tvgVita69/Django/assets/98489171/f197dd61-0da4-40eb-bf77-bbded2d077bf)
 
+Чтобы сохранить все изменения, выполните команду ``python manage.py migrate``
 
-
+![image](https://github.com/tvgVita69/Django/assets/98489171/d6b42d84-4a58-4cc4-8d04-335bc68b11f6)
 
 
 
