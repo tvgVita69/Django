@@ -47,11 +47,13 @@ Using cached filelock-3.13.1-py3-none-any.whl (11 kB)
 ```
 ![image](https://github.com/tvgVita69/Django/assets/98489171/64d370ae-ab82-4ac3-b9d7-b253232fb999)
 
-### 3. Создаём виртуальную среду.
+### 3. Создаём виртуальную среду и активируем её.
 ``python -m venv имя ``
 
 > например: ``python -m venv django``
 ![image](https://github.com/tvgVita69/Django/assets/98489171/e96c67b0-0ed0-40fc-88e1-f6a1ff65ef4f)
 
+> Далее перейдём в папку Scripts и активируем виртуальную среду.
+![image](https://github.com/tvgVita69/Django/assets/98489171/c14df737-adc3-4a40-b044-9e789e0eae6c)
 
 
