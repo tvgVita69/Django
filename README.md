@@ -23,10 +23,13 @@
 - [X] pip install django&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#установка Django.
 - [X] django-admin startproject ...&nbsp;&nbsp;&nbsp;&nbsp;#создаём наш проект.
 
-> дополнительно если не установлены, пакеты которые нам понадобятся<br>
+> дополнительно если не установлен, пакет который нам понадобится<br>
 
-- [X] pip install requests&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#установит пакет requests, который используется для выполнения HTTP-запросов.
-- [X] pip install flask&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#установит пакет Flask
+- [X] pip install requests&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#установит пакет requests, который используется для выполнения HTTP-запросов, протокол прикладного
+уровня передачи данных.
+
+> кто хочет работать с Flask
+``pip install flask`` &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#установит пакет Flask
 
 ![image](https://github.com/tvgVita69/Django/assets/98489171/cfd80a6f-ed6f-4667-b383-51441295b670)
 
@@ -36,7 +39,7 @@
 Введём команду<br>
 ``pip -V`` или ``python -m pip --version`` или ``python3 -m pip --version``
 <br>Если пакет не установлен, значит устанавливаем, вводим команду<br>
-``python -m ensurepip``
+``python -m ensurepip --upgrade`` или ``python get-pip.py`` (https://pip.pypa.io/en/latest/installation/)
 <br>Если пакет установлен, значит продолжим далее устанавливать необходимые пакеты.<br>
 Конечно можно обновить устаревшую версию pip командой ``python.exe -m pip install --upgrade pip``, <br>
 но при дальнейшей установке пакетов будет предложено обновить пакет pip если они устарели. См. ниже. <br>
@@ -93,9 +96,13 @@ Using cached filelock-3.13.1-py3-none-any.whl (11 kB)
 
 ![image](https://github.com/tvgVita69/Django/assets/98489171/91903193-bc6c-4ecd-83c6-1fb5b07c458b)
 
-
-
-
+**manage.py** -это файл управления нашего проекта (запустить сервер разработки, синхронизации БД и т.д.).
+**myproject** -сама директория проекта , имеет следующую структуру.
+**__pycache __** -директория настроек джанго приложения (не пользовательских).
+**__init__.py** -конструктор проекта.
+**settings.py** -файл настроек проекта.
+**urls.py** -маршрутизация.
+**wsgi.py** -разворачивание на wsgi интерфейсе.
 
 
 
