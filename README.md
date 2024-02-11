@@ -121,7 +121,7 @@ Using cached filelock-3.13.1-py3-none-any.whl (11 kB)
 ![image](https://github.com/tvgVita69/Django/assets/98489171/0b0ab3a3-eee8-4884-b2bd-ed8b1a585507)
 
 Останавливаем сервер ``Ctrl+c``, и создадим первое приложение нашего проекта  ``project_01`` под название ``lesson_01``.
->  python manage.py startapp lesson_01
+>  ``python manage.py startapp lesson_01``
 > далее переходим в папку ``project_01`` и редактируем файл настроек ``settings.py`` добавляем строку ``'lesson_01',``
 
 ```
@@ -138,7 +138,15 @@ INSTALLED_APPS = [
 
 ![image](https://github.com/tvgVita69/Django/assets/98489171/d898220d-7369-4d44-b89d-a28070e7ae6a)
 
+Теперь редактируем файлы ``project_01\urls.py``  и ``lesson_01\views.py``  , где пропишем функцию которую будем вызывать и путь до этого файла.
 
+![image](https://github.com/tvgVita69/Django/assets/98489171/056a0d2e-9287-4a3c-8df4-fe0d1b87e652)
+
+![image](https://github.com/tvgVita69/Django/assets/98489171/06518c23-af62-4312-91dc-56b452b8fe6d)
+
+Посли редактирования запустим наш сервер.
+
+![image](https://github.com/tvgVita69/Django/assets/98489171/6650e746-a888-4ea4-967d-3f165305a001)
 
 
 
