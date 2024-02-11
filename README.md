@@ -154,6 +154,10 @@ INSTALLED_APPS = [
 
 ![image](https://github.com/tvgVita69/Django/assets/98489171/d6b42d84-4a58-4cc4-8d04-335bc68b11f6)
 
+P.s. Изменение страниц можно производить на лету, на запущеном сервере.
+
+![image](https://github.com/tvgVita69/Django/assets/98489171/001a6c0a-5c32-467d-93cc-3213852cae6e)
+
 
 
 
