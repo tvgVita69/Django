@@ -51,12 +51,13 @@ Using cached filelock-3.13.1-py3-none-any.whl (11 kB)
 ``python -m venv имя ``
 
 > например: ``python -m venv django``
+
 ![image](https://github.com/tvgVita69/Django/assets/98489171/e96c67b0-0ed0-40fc-88e1-f6a1ff65ef4f)
 
 > Далее перейдём в папку Scripts и активируем виртуальную среду.
 - cd django
   - cd Scripts
-    - activate
+    - ``activate``
 
 ![image](https://github.com/tvgVita69/Django/assets/98489171/c14df737-adc3-4a40-b044-9e789e0eae6c)
 
@@ -64,9 +65,23 @@ Using cached filelock-3.13.1-py3-none-any.whl (11 kB)
 
 > Перейдём в папку django
 - cd ..
-  - pip install django
+- ``pip install django``
 
 ![image](https://github.com/tvgVita69/Django/assets/98489171/8167c2fd-97d7-4155-add5-3913f6196e2c)
+
+### 5. Создаём наш проект.
+``django-admin startproject имя_проекта``
+
+> например: ``django-admin startproject  project_01``
+
+![image](https://github.com/tvgVita69/Django/assets/98489171/6da8ac03-b7d3-4fb9-bd77-2d3fae717faf)
+
+Появилась папка с файлами и названием нашего проекта.
+
+![image](https://github.com/tvgVita69/Django/assets/98489171/91903193-bc6c-4ecd-83c6-1fb5b07c458b)
+
+
+
 
 
 
