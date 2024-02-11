@@ -10,7 +10,7 @@
 - [X] pip install django		          #Установка Django.
 - [X] django-admin startproject ...	  # создаём наш проект
 
-> дополнительно если не установлены<br>
+> дополнительно если не установлены, пакеты которые нам понадобятся<br>
 
 - [X] pip install requests             #установит пакет requests, который используется для выполнения HTTP-запросов.
 - [X] pip install flask                #установит пакет Flask
@@ -47,7 +47,10 @@ Using cached filelock-3.13.1-py3-none-any.whl (11 kB)
 ```
 ![image](https://github.com/tvgVita69/Django/assets/98489171/64d370ae-ab82-4ac3-b9d7-b253232fb999)
 
+### 3. Создаём виртуальную среду.
+``python -m venv имя ``
 
-
+> например: ``python -m venv django``
+![image](https://github.com/tvgVita69/Django/assets/98489171/9efc3c8c-fc95-4f02-bb7f-63ade258d642)
 
 
