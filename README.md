@@ -4,16 +4,16 @@
 ### Как с этим работать? 
 Для начала установим всё необходимое.
 
-- [X] python -m ensurepip             &nbsp;&nbsp;#установщик пакетов или установщик программ, pip устанавливается вместе с Python по умолчанию.
-- [X] pip install virtualenv		      &nbsp;&nbsp;#установка виртуальной среды.	
-- [X] python -m venv ...  		        &nbsp;&nbsp;#создание виртуальной среды.
-- [X] pip install django		          &nbsp;&nbsp;#установка Django.
-- [X] django-admin startproject ...	  &nbsp;&nbsp;#создаём наш проект.
+- [X] python -m ensurepip&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#установщик пакетов или установщик программ, pip устанавливается вместе с Python по умолчанию.
+- [X] pip install virtualenv&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#установка виртуальной среды.	
+- [X] python -m venv ...&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#создание виртуальной среды.
+- [X] pip install django&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#установка Django.
+- [X] django-admin startproject ...&nbsp;&nbsp;&nbsp;&nbsp;#создаём наш проект.
 
 > дополнительно если не установлены, пакеты которые нам понадобятся<br>
 
-- [X] pip install requests             &nbsp;&nbsp;;#установит пакет requests, который используется для выполнения HTTP-запросов.
-- [X] pip install flask                &nbsp;&nbsp;#установит пакет Flask
+- [X] pip install requests&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#установит пакет requests, который используется для выполнения HTTP-запросов.
+- [X] pip install flask&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#установит пакет Flask
 
 ![image](https://github.com/tvgVita69/Django/assets/98489171/cfd80a6f-ed6f-4667-b383-51441295b670)
 
