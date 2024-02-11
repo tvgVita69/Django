@@ -51,6 +51,7 @@ Using cached filelock-3.13.1-py3-none-any.whl (11 kB)
 ``python -m venv имя ``
 
 > например: ``python -m venv django``
-![image](https://github.com/tvgVita69/Django/assets/98489171/9efc3c8c-fc95-4f02-bb7f-63ade258d642)
+![image](https://github.com/tvgVita69/Django/assets/98489171/e96c67b0-0ed0-40fc-88e1-f6a1ff65ef4f)
+
 
 
