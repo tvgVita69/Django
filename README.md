@@ -112,12 +112,13 @@ Using cached filelock-3.13.1-py3-none-any.whl (11 kB)
 
 ![image](https://github.com/tvgVita69/Django/assets/98489171/e103e7ae-f72d-40a7-8518-57a9d0490698)
 
-![image](https://github.com/tvgVita69/Django/assets/98489171/1d388f1c-7537-47d8-9988-b9eda6ff1b7e)
+![image](https://github.com/tvgVita69/Django/assets/98489171/aea3c7f4-9c79-4a34-a55e-cfcedb180d77)
 
 При желании можно порт поменять, например 5555. Завершение работы сервера ``Ctrl+c``
 
 ![image](https://github.com/tvgVita69/Django/assets/98489171/936a846a-9318-4fd4-bb6b-e63f62aefadb)
 
+![image](https://github.com/tvgVita69/Django/assets/98489171/0b0ab3a3-eee8-4884-b2bd-ed8b1a585507)
 
 
 
