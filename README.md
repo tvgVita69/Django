@@ -144,10 +144,11 @@ INSTALLED_APPS = [
 
 ![image](https://github.com/tvgVita69/Django/assets/98489171/06518c23-af62-4312-91dc-56b452b8fe6d)
 
-Посли редактирования запустим наш сервер.
+Посли редактирования запустим наш сервер и убедимся, что все изменения работают.
 
 ![image](https://github.com/tvgVita69/Django/assets/98489171/6650e746-a888-4ea4-967d-3f165305a001)
 
+![image](https://github.com/tvgVita69/Django/assets/98489171/f197dd61-0da4-40eb-bf77-bbded2d077bf)
 
 
 
