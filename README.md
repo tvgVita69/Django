@@ -4,16 +4,16 @@
 ### Как с этим работать? 
 Для начала установим всё необходимое.
 
-- [X] python -m ensurepip             #установщик пакетов или установщик программ, pip устанавливается вместе с Python по умолчанию.
-- [X] pip install virtualenv		      #установка виртуальной среды.	
-- [X] python -m venv ...  		        #создание виртуальной среды.
-- [X] pip install django		          #Установка Django.
-- [X] django-admin startproject ...	  # создаём наш проект
+- [X] python -m ensurepip             &nbps;&nbps;#установщик пакетов или установщик программ, pip устанавливается вместе с Python по умолчанию.
+- [X] pip install virtualenv		      &nbps;&nbps;#установка виртуальной среды.	
+- [X] python -m venv ...  		        &nbps;&nbps;#создание виртуальной среды.
+- [X] pip install django		          &nbps;&nbps;#установка Django.
+- [X] django-admin startproject ...	  &nbps;&nbps;#создаём наш проект.
 
 > дополнительно если не установлены, пакеты которые нам понадобятся<br>
 
-- [X] pip install requests             #установит пакет requests, который используется для выполнения HTTP-запросов.
-- [X] pip install flask                #установит пакет Flask
+- [X] pip install requests             &nbps;&nbps;#установит пакет requests, который используется для выполнения HTTP-запросов.
+- [X] pip install flask                &nbps;&nbps;#установит пакет Flask
 
 ![image](https://github.com/tvgVita69/Django/assets/98489171/cfd80a6f-ed6f-4667-b383-51441295b670)
 
@@ -54,6 +54,23 @@ Using cached filelock-3.13.1-py3-none-any.whl (11 kB)
 ![image](https://github.com/tvgVita69/Django/assets/98489171/e96c67b0-0ed0-40fc-88e1-f6a1ff65ef4f)
 
 > Далее перейдём в папку Scripts и активируем виртуальную среду.
+- cd django
+  - cd Scripts
+    - activate
+
 ![image](https://github.com/tvgVita69/Django/assets/98489171/c14df737-adc3-4a40-b044-9e789e0eae6c)
+
+### 4. Установка Django.
+
+> Перейдём в папку django
+- cd ..
+  - pip install django
+
+![image](https://github.com/tvgVita69/Django/assets/98489171/8167c2fd-97d7-4155-add5-3913f6196e2c)
+
+
+
+
+
 
 
