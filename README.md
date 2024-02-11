@@ -120,7 +120,23 @@ Using cached filelock-3.13.1-py3-none-any.whl (11 kB)
 
 ![image](https://github.com/tvgVita69/Django/assets/98489171/0b0ab3a3-eee8-4884-b2bd-ed8b1a585507)
 
+Останавливаем сервер ``Ctrl+c``, и создадим первое приложение нашего проекта  ``project_01`` под название ``lesson_01``.
+>  python manage.py startapp lesson_01
+> далее переходим в папку ``project_01`` и редактируем файл настроек ``settings.py`` добавляем строку ``'lesson_01',``
 
+```
+INSTALLED_APPS = [
+    'django.contrib.admin',
+    'django.contrib.auth',
+    'django.contrib.contenttypes',
+    'django.contrib.sessions',
+    'django.contrib.messages',
+    'django.contrib.staticfiles',
+    'lesson_01',
+]
+```
+
+![image](https://github.com/tvgVita69/Django/assets/98489171/d898220d-7369-4d44-b89d-a28070e7ae6a)
 
 
 
