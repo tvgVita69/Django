@@ -9,7 +9,9 @@
 - [X] python -m venv ...  		        #создание виртуальной среды.
 - [X] pip install django		          #Установка Django.
 - [X] django-admin startproject ...	  # создаём наш проект
+
 > дополнительно если не установлены<br>
+
 - [X] pip install requests             #установит пакет requests, который используется для выполнения HTTP-запросов.
 - [X] pip install flask                #установит пакет Flask
 
